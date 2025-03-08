@@ -1,0 +1,2 @@
+// Small Reflection
+cos ( perlinBW ( perlinColor ( clamp ( y ) , perlinBW ( x , x ) ) , x / exp ( perlinColor ( x + x , rgbToYCrCb ( abs ( perlinColor ( y , y ) ) ) ) ) ) / y - [ -0.9639975434927033 , -0.12061902574200922 , 0.563662875305337 ] )
